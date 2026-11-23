@@ -39,6 +39,12 @@ Text in the header and notes can use `*italics*`, `**bold**` and `[links](https:
 - Frankfurt's scans of Löw's Flora have no OCR text layer (checked 31-Oct-2026). Check other scans the same way.
 - **Cost of one full work** (Nov-2026 prices): about 500 pages per volume × about $0.10 per page for OCR and
   about $0.08 per page for translation with Claude Opus 5.5 through OpenRouter.
+- **OCR at no cost per page:** for works mostly in one script (Hebrew, Syriac, Latin and the like), the
+  open-source [Kraken](https://kraken.re/) OCR engine with a ready model can do the OCR locally, at no cost per page.
+  On a rented GPU it is much faster (best for a long work or for fine-tuning a model). It worked on the Emden
+  (Hebrew) and Barhebraeus (Syriac, about 95% of words matched) readers. Works that mix scripts on one line
+  (German or Latin with Hebrew, Greek and Arabic, as in Löw or Bochart) still need a vision model, or Kraken
+  with a second pass. Check a few pages by hand either way.
 
 The list started in the Löw reader's repository (`TARGETS.md`, 31-Oct-2026) and moved here on 23-Nov-2026.
 
