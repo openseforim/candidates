@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Planned and proposed works
+    url: https://openseforim.org/next/
+    about: See the full list before you suggest a work.
+  - name: Report a mistake in a reader
+    url: https://openseforim.org/#works
+    about: Each reader has its own repository and a "Report a mistake" link at the foot of every page.

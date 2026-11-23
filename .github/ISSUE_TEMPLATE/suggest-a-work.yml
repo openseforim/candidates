@@ -1,0 +1,40 @@
+name: Suggest a work
+description: Propose a Hebrew or Judaica text, or a study of one, for a new Open Seforim reader.
+title: "Suggestion: "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. Open Seforim makes readers with the source text, checked against page scans, and an English translation.
+        Works must be in the public domain: in the EU the author died 70 or more years ago; in the US it was published before 1931.
+  - type: input
+    id: work
+    attributes:
+      label: Work
+      description: Author and title, and the Hebrew title if there is one.
+      placeholder: "Judah al-Ḥarizi, Taḥkemoni (תחכמוני)"
+    validations:
+      required: true
+  - type: input
+    id: edition
+    attributes:
+      label: Edition
+      description: The edition you suggest as the base text (place, year, editor).
+  - type: textarea
+    id: scans
+    attributes:
+      label: Page scans
+      description: Links to scans (archive.org, HathiTrust, HebrewBooks, a library's digital collection).
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this work
+      description: Why it is useful, and how it connects to other works.
+    validations:
+      required: true
+  - type: textarea
+    id: existing
+    attributes:
+      label: Existing transcriptions or translations
+      description: Any you know of, complete or partial, in any language.
