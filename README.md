@@ -31,6 +31,9 @@ Text in the header and notes can use `*italics*`, `**bold**` and `[links](https:
 
 ## Before work starts on any of these
 
+The full checklist from a candidate to a live reader is in
+[NEW_READER.md](https://github.com/openseforim/openseforim.github.io/blob/main/NEW_READER.md).
+
 - **Public domain (rough rule):** EU = the author died 70 or more years ago; US = published before 1931.
   A modern edition of an old text can still be in copyright.
 - **Check existing projects first:** Sefaria (texts and dictionaries), Ben-Yehuda, Wikisource (he, de), the
