@@ -4,7 +4,8 @@ title_he: דור דור ודורשיו
 author: Isaac Hirsch Weiss (1815–1905)
 published: 5 vols., Vienna 1871–91 (German title page *Zur Geschichte der jüdischen Tradition*); Vilna 1895 and 1904; Berlin and New York 1923–24; Jerusalem 1963
 language: Hebrew
-status: researched
+status: started
+reader: https://openseforim.org/weiss/
 added: 21-Nov-2026
 checked: 24-Nov-2026: archive.org, Open Library, the HathiTrust volumes API, Sefaria, Wikisource and the Project Ben-Yehuda catalogue
 why: The classic 19th-century history of the Oral Law, from the Bible to the end of the 16th century; a companion to Hyman's *Toldot Tannaim ve-Amoraim* and to Frankel's *Darkhe ha-Mishnah*.
@@ -13,3 +14,5 @@ existing: Not on Sefaria, Wikisource or Project Ben-Yehuda, so the text needs OC
 ---
 
 Hebrew only: a good fit for Kraken with a Hebrew model. Base text: the Vienna first edition (Weiss's own); check his later changes against the 1904 Vilna printing.
+
+Reader started 24-Nov-2026 from the Daat scan of the first edition (vol. 1, pp. 1-3 checked and translated). All five volumes are OCR'd with Kraken; about a third of the pages need a second pass after a line-splitting fault was fixed.
