@@ -4,7 +4,8 @@ title_he: מעגל טוב
 author: Ḥayyim Yosef David Azulai (1724–1806)
 published: partial printings 1879 and Przemyśl 1885; complete ed. A. Freimann, Mekize Nirdamim, pt. 1 Berlin 1921, pt. 2 Jerusalem 1934 (220 pp.; photo reprint 1967)
 language: Hebrew
-status: researched
+status: started
+reader: https://openseforim.org/maagal-tov/
 added: 21-Nov-2026
 checked: 24-Nov-2026: archive.org, the HathiTrust volumes API, Open Library, Sefaria, Hebrew Wikisource, the Project Ben-Yehuda catalogue, the Hebrew Wikipedia article and the Otzar HaChochma forum thread on the editions; HebrewBooks is linked from Wikipedia but refused the automated browser
 why: His travel diary as an emissary of Hebron in the 1750s and the 1770s: Egypt, Italy, Germany, Holland, France, England and Tunisia, with Versailles, the royal library in Paris, a cabinet of curiosities in Amsterdam, and the death of his wife, which he mourned in secret. A first-person 18th-century Hebrew text like *Megillat Sefer*, with some of the same communities.
