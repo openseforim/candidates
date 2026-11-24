@@ -2,13 +2,14 @@
 title: Ḥida, *Ma'agal Tov*
 title_he: מעגל טוב
 author: Ḥayyim Yosef David Azulai (1724–1806)
-published: Livorno 1879 (partial); ed. A. Freimann, Jerusalem 1921–34
+published: partial printings 1879 and Przemyśl 1885; complete ed. A. Freimann, Mekize Nirdamim, pt. 1 Berlin 1921, pt. 2 Jerusalem 1934 (220 pp.; photo reprint 1967)
 language: Hebrew
-status: proposed
+status: researched
 added: 21-Nov-2026
-checked: not checked
-why: His travel diary as an emissary of Hebron in the 1750s and 1770s: Italy, Germany, Holland, France, England, North Africa. A first-person 18th-century Hebrew text like *Megillat Sefer*, with some of the same communities.
-existing: An English translation by B. Cymerman (1997) probably exists: check how complete and how good it is before starting.
+checked: 24-Nov-2026: archive.org, the HathiTrust volumes API, Open Library, Sefaria, Hebrew Wikisource, the Project Ben-Yehuda catalogue, the Hebrew Wikipedia article and the Otzar HaChochma forum thread on the editions; HebrewBooks is linked from Wikipedia but refused the automated browser
+why: His travel diary as an emissary of Hebron in the 1750s and the 1770s: Egypt, Italy, Germany, Holland, France, England and Tunisia, with Versailles, the royal library in Paris, a cabinet of curiosities in Amsterdam, and the death of his wife, which he mourned in secret. A first-person 18th-century Hebrew text like *Megillat Sefer*, with some of the same communities.
+scans: Freimann's complete edition (1921–34): [HebrewBooks 21838](https://www.hebrewbooks.org/21838) (linked from the Hebrew Wikipedia article; not opened, as HebrewBooks blocks automated browsers); on HathiTrust it is search-only ([uc1.$b745676](https://babel.hathitrust.org/cgi/pt?id=uc1.$b745676), [coo.31924070058247](https://babel.hathitrust.org/cgi/pt?id=coo.31924070058247)), and so is the 1967 reprint. Partial printing, Przemyśl 1885, full view: [archive.org maagaltob00azul](https://archive.org/details/maagaltob00azul) (University of Illinois, 650 ppi, OCR text layer; the same scan is [HathiTrust uiuo.ark:/13960/t19m0jx18](https://babel.hathitrust.org/cgi/pt?id=uiuo.ark:/13960/t19m0jx18)) and [HathiTrust uc1.g0001630797](https://babel.hathitrust.org/cgi/pt?id=uc1.g0001630797) (University of California). National Library of Israel: [authority record](https://www.nli.org.il/he/authorities/987007304289905171).
+existing: Not on Sefaria, Wikisource or Project Ben-Yehuda, so the text needs OCR (Kraken with a Hebrew model, as for Emden). English: B. Cymerman, *The Diaries of Rabbi Ha'im Yosef David Azulai* (Jerusalem, 1997), in copyright; check how complete it is. French: *Les voyageurs juifs du XVIIIe siècle* (1997). Three Hebrew editions appeared in 2022, all in copyright: A. Raviv (Talmim; vol. 1, first journey, with photographs), Mekhon ha-Maor (complete, with more readings from the author's manuscript), and D. A. Mandelbaum (corrections from the manuscript, Freimann's page numbers in the margin) ([forum thread on the editions](https://forum.otzar.org/viewtopic.php?f=7&t=21072)). Study: O. Cohen, *Sevav holekh ha-ruaḥ* (Magnes, 2023).
 ---
 
-Freimann's edition may still be in copyright in the EU. Suggested in the review of the Emden reader.
+Base text: Freimann's edition. Freimann died in 1948, so the edition is public domain in the EU (from 2019); part 1 (1921) is public domain in the US, while HathiTrust treats the 1934 volume as in copyright in the US. The diary text itself is 18th-century. Do not copy readings, notes or added passages from the 2022 editions. The 1885 printing has only part of the text but a clean full-view scan with an OCR layer, good for an OCR test. His son Isaiah held the diary back from print because it spoke badly of living people; the diary records his bouts of melancholy. Suggested in the review of the Emden reader.
